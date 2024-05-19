@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=878DF7&vCenter=true&random=false&width=460&height=100&lines=The+Magic+Is+Real+And+I'm+The+Magician)](https://git.io/typing-svg)
 
 <!--
 **foxide123/foxide123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
