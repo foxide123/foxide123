@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=878DF7&vCenter=true&random=false&width=460&height=100&lines=The+Magic+Is+Real+And+I'm+The+Magician)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=878DF7&vCenter=true&random=false&width=460&height=100&lines=The+Magic+Is+Real+And+I'm+The+Magician+🎩)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=foxide123&theme=blue-green"/></a>
